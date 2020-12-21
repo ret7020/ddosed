@@ -1,6 +1,24 @@
 #danger{
   color: red;
+  font-size: 40px;
 }
 #normal{
   color: green;
+  font-size: 40px;
+}
+p{
+	font-size: 15px;
+}
+#danger_link{
+	text-decoration: none;
+	color: red;
+}
+#fixed_link{
+	text-decoration: none;
+	color: green;
+}
+#link
+{
+	text-decoration: none;
+	color: #03a9f4;
 }
